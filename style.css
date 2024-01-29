@@ -1,0 +1,19 @@
+body{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+#tarolo{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 400px;
+}
+
+#tarolo button{
+    aspect-ratio: 1;
+    font-size: 2rem;
+}
