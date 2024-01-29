@@ -1,1 +1,2 @@
 Amőba játék készítése HTML és CSS felhasználásával.
+Készítette: Pápai Roland
